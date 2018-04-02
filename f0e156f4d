@@ -1,18 +1,290 @@
 [
     {
-        "url": "",
-        "status": "",
-        "earning": [],
+        "url": "https://fruitmoney.org/?u=jatiffus",
+        "status": "paying",
+        "earning": ["hyip-game", "surfing", "bonus", "affiliate"],
         "refback": {
-            "type": "",
-            "percent": ""
+            "type": "none",
+            "percent": 0
         },
         "withdraw": {
-            "currency": "",
-            "minium": 0,
-            "method": ""
+            "currency": "rub",
+            "minium": 1,
+            "method": "instant"
         },
-        "payments_via": [],
+        "payments_via": ["payeer", "webmoney", "perfectmoney", "bitcoin", "yandex", "advcash", "visa"],
+        "note": ""
+    },
+
+    {
+        "url": "https://motormoney.org/?u=jatiffus",
+        "status": "paying",
+        "earning": ["hyip-game", "surfing", "bonus", "affiliate"],
+        "refback": {
+            "type": "none",
+            "percent": 0
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "webmoney", "perfectmoney", "bitcoin", "yandex", "advcash", "visa"],
+        "note": ""
+    },
+
+    {
+        "url": "https://monopolist.biz/index/10940",
+        "status": "paying",
+        "earning": ["hyip-game", "surfing", "bonus", "affiliate"],
+        "refback": {
+            "type": "none",
+            "percent": 0
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "yandex", "advcash"],
+        "note": ""
+    },
+
+    {
+        "url": "https://www.threeinone.club/index/109554",
+        "status": "paying",
+        "earning": ["hyip-game", "surfing", "bonus", "tasks", "read-letter", "affiliate"],
+        "refback": {
+            "type": "none",
+            "percent": 0
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "yandex", "advcash"],
+        "note": ""
+    },
+
+    {
+        "url": "https://socpublic.com/?i=3500974&slide=1",
+        "status": "paying",
+        "earning": ["surfing", "tasks", "read-letter", "affiliate"],
+        "refback": {
+            "type": "auto",
+            "percent": 70
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "webmoney", "perfectmoney", "yandex", "qiwi"],
+        "note": ""
+    },
+
+    {
+        "url": "https://sharkpromotion.net/?r=143999",
+        "status": "paying",
+        "earning": ["surfing", "bonus", "tasks", "read-letter", "affiliate", "test-view"],
+        "refback": {
+            "type": "auto",
+            "percent": 90
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "webmoney", "perfectmoney", "yandex", "qiwi", "advcash"],
+        "note": ""
+    },
+
+    {
+        "url": "https://e-clius.com/?r=24567",
+        "status": "paying",
+        "earning": ["surfing", "bonus", "tasks", "read-letter", "affiliate", "test-view"],
+        "refback": {
+            "type": "auto",
+            "percent": 90
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1.5,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "webmoney", "perfectmoney", "yandex", "qiwi", "advcash"],
+        "note": ""
+    },
+
+    {
+        "url": "https://profitcentr.com/register?r=foundcoin",
+        "status": "paying",
+        "earning": ["surfing", "bonus", "tasks", "read-letter", "affiliate", "test-view"],
+        "refback": {
+            "type": "auto",
+            "percent": 90
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 5,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "webmoney", "perfectmoney", "yandex", "qiwi", "advcash"],
+        "note": ""
+    },
+
+    {
+        "url": "https://seo-fast.ru/?r=1660011",
+        "status": "paying",
+        "earning": ["surfing", "bonus", "tasks", "read-letter", "affiliate", "youtube"],
+        "refback": {
+            "type": "auto",
+            "percent": 10
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "webmoney", "perfectmoney", "yandex", "qiwi"],
+        "note": ""
+    },
+
+    {
+        "url": "https://tushins.com/?r=57466",
+        "status": "paying",
+        "earning": ["surfing", "bonus", "tasks", "read-letter", "affiliate"],
+        "refback": {
+            "type": "auto",
+            "percent": 90
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1.5,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "webmoney", "perfectmoney", "yandex", "qiwi", "advcash"],
+        "note": ""
+    },
+
+    {
+        "url": "https://storm-bux.ru/?r=544",
+        "status": "paying",
+        "earning": ["surfing", "bonus", "tasks", "read-letter", "affiliate"],
+        "refback": {
+            "type": "auto",
+            "percent": 90
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "webmoney", "perfectmoney", "yandex", "qiwi", "advcash"],
+        "note": ""
+    },
+
+    {
+        "url": "http://seoland.biz/?partner=936",
+        "status": "paying",
+        "earning": ["surfing", "bonus", "tasks", "read-letter", "affiliate"],
+        "refback": {
+            "type": "auto",
+            "percent": 90
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 2,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "yandex", "qiwi"],
+        "note": ""
+    },
+
+    {
+        "url": "https://seopulse.net/?r=3622",
+        "status": "paying",
+        "earning": ["surfing", "bonus", "tasks", "read-letter", "affiliate", "test-view"],
+        "refback": {
+            "type": "auto",
+            "percent": 90
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1.5,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "webmoney", "perfectmoney", "yandex", "qiwi", "advcash"],
+        "note": ""
+    },
+
+    {
+        "url": "https://seimup.net/?r=75231",
+        "status": "paying",
+        "earning": ["surfing", "bonus", "tasks", "read-letter", "affiliate", "game"],
+        "refback": {
+            "type": "none",
+            "percent": 0
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "webmoney", "yandex"],
+        "note": ""
+    },
+
+    {
+        "url": "https://webof-sar.ru/?r=227393",
+        "status": "paying",
+        "earning": ["surfing", "bonus", "tasks", "read-letter", "affiliate", "test-view"],
+        "refback": {
+            "type": "auto",
+            "percent": 90
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 2,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "webmoney", "perfectmoney", "yandex", "qiwi", "advcash"],
+        "note": ""
+    },
+
+    {
+        "url": "http://dynamic-company.ru/?r=jatiffus",
+        "status": "paying",
+        "earning": ["surfing", "tasks", "read-letter", "affiliate", "test-view"],
+        "refback": {
+            "type": "auto",
+            "percent": 80
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "webmoney", "yandex"],
+        "note": ""
+    },
+
+    {
+        "url": "https://cardmoney.org/?i=6981",
+        "status": "paying",
+        "earning": ["hyip-game", "surfing", "bonus", "affiliate"],
+        "refback": {
+            "type": "none",
+            "percent": 0
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "yandex", "qiwi", "visa", "mastercard"],
         "note": ""
     }
 ]
