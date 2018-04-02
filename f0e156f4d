@@ -1,0 +1,18 @@
+[
+    {
+        "url": "",
+        "status": "",
+        "earning": [],
+        "refback": {
+            "type": "",
+            "percent": ""
+        },
+        "withdraw": {
+            "currency": "",
+            "minium": 0,
+            "method": ""
+        },
+        "payments_via": [],
+        "note": ""
+    }
+]
