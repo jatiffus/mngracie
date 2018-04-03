@@ -287,9 +287,43 @@
         "payments_via": ["payeer", "yandex", "qiwi", "visa", "mastercard"],
         "note": ""
     },
-    
+
     {
-        "url": "https://supreme-garden.ru/?r=24323",
+        "url": "https://mushroomer.biz/r=jatiffus",
+        "status": "paying",
+        "earning": ["hyip-game", "surfing", "bonus", "affiliate"],
+        "refback": {
+            "type": "none",
+            "percent": 0
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "yandex", "qiwi", "visa", "mastercard"],
+        "note": ""
+    },
+
+    {
+        "url": "https://tropical-birds.org/ref/5120",
+        "status": "paying",
+        "earning": ["hyip-game", "surfing", "bonus", "affiliate"],
+        "refback": {
+            "type": "none",
+            "percent": 0
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "yandex", "qiwi"],
+        "note": ""
+    },
+
+    {
+        "url": "http://supreme-garden.ru/?r=24323",
         "status": "paying",
         "earning": ["surfing", "tasks", "read-letter", "affiliate", "test-view"],
         "refback": {
@@ -307,7 +341,7 @@
 
     {
         "url": "http://rapid-work.ru/?ref=409",
-        "status": "paying",
+        "status": "checking",
         "earning": ["surfing", "bonus", "tasks", "affiliate"],
         "refback": {
             "type": "none",
@@ -320,5 +354,22 @@
         },
         "payments_via": ["payeer"],
         "note": "newer"
-    }
+    },
+
+    {
+        "url": "https://zonaprofita.ru/?r=34671",
+        "status": "paying",
+        "earning": ["surfing", "tasks", "read-letter", "affiliate", "test-view"],
+        "refback": {
+            "type": "auto",
+            "percent": 90
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1.5,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "webmoney", "perfectmoney", "yandex", "qiwi"],
+        "note": ""
+    },
 ]
