@@ -68,6 +68,40 @@
     },
 
     {
+        "url": "https://sahter-farm.org/?ref=984",
+        "status": "paying",
+        "earning": ["hyip-game", "surfing", "bonus", "affiliate"],
+        "refback": {
+            "type": "none",
+            "percent": 0
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "yandex", "qiwi"],
+        "note": ""
+    },
+
+    {
+        "url": "https://scmoney.biz/r=jatiffus",
+        "status": "paying",
+        "earning": ["hyip-game", "bonus", "affiliate"],
+        "refback": {
+            "type": "none",
+            "percent": 0
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "perfectmoney", "qiwi"],
+        "note": "start now"
+    },
+
+    {
         "url": "https://socpublic.com/?i=3500974&slide=1",
         "status": "paying",
         "earning": ["surfing", "tasks", "read-letter", "affiliate"],
@@ -440,7 +474,7 @@
         "payments_via": ["payeer", "webmoney", "perfectmoney", "yandex", "advcash", "visa", "mastercard"],
         "note": ""
     },
-    
+
     {
         "url": "http://adbux.ru/r=118",
         "status": "paying",
