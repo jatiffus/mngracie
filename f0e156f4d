@@ -286,5 +286,39 @@
         },
         "payments_via": ["payeer", "yandex", "qiwi", "visa", "mastercard"],
         "note": ""
+    },
+    
+    {
+        "url": "http://supreme-garden.com/?r=24323",
+        "status": "paying",
+        "earning": ["surfing", "tasks", "read-letter", "affiliate", "test-view"],
+        "refback": {
+            "type": "auto",
+            "percent": 90
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 2,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "webmoney", "perfectmoney", "visa", "mastercard", "yandex"],
+        "note": ""
+    },
+
+    {
+        "url": "http://rapid-work.ru/?ref=409",
+        "status": "checking",
+        "earning": ["surfing", "bonus", "tasks", "affiliate"],
+        "refback": {
+            "type": "none",
+            "percent": 0
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1,
+            "method": "instant"
+        },
+        "payments_via": ["payeer"],
+        "note": "newer"
     }
 ]
