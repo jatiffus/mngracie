@@ -439,5 +439,22 @@
         },
         "payments_via": ["payeer", "webmoney", "perfectmoney", "yandex", "advcash", "visa", "mastercard"],
         "note": ""
+    },
+    
+    {
+        "url": "http://adbux.ru/r=118",
+        "status": "paying",
+        "earning": ["surfing", "bonus", "tasks", "social", "affiliate", "test-view"],
+        "refback": {
+            "type": "none",
+            "percent": 0
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 5,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "webmoney", "advcash"],
+        "note": ""
     }
 ]
