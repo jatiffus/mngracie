@@ -307,7 +307,7 @@
 
     {
         "url": "http://rapid-work.ru/?ref=409",
-        "status": "checking",
+        "status": "paying",
         "earning": ["surfing", "bonus", "tasks", "affiliate"],
         "refback": {
             "type": "none",
