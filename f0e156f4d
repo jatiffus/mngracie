@@ -372,4 +372,21 @@
         "payments_via": ["payeer", "webmoney", "perfectmoney", "yandex", "qiwi"],
         "note": ""
     },
+
+    {
+        "url": "http://wm-stream.ru/advertise.php?r=23593",
+        "status": "paying",
+        "earning": ["surfing", "tasks", "read-letter", "affiliate", "test-view"],
+        "refback": {
+            "type": "auto",
+            "percent": 90
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "webmoney", "yandex", "advcash"],
+        "note": ""
+    }
 ]
