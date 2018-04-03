@@ -341,7 +341,7 @@
 
     {
         "url": "http://rapid-work.ru/?ref=409",
-        "status": "checking",
+        "status": "paying",
         "earning": ["surfing", "bonus", "tasks", "affiliate"],
         "refback": {
             "type": "none",
@@ -359,7 +359,7 @@
     {
         "url": "https://zonaprofita.ru/?r=34671",
         "status": "paying",
-        "earning": ["surfing", "tasks", "read-letter", "affiliate", "test-view"],
+        "earning": ["surfing", "bonus", "tasks", "read-letter", "affiliate", "test-view"],
         "refback": {
             "type": "auto",
             "percent": 90
@@ -376,7 +376,7 @@
     {
         "url": "http://wm-stream.ru/advertise.php?r=23593",
         "status": "paying",
-        "earning": ["surfing", "tasks", "read-letter", "affiliate", "test-view"],
+        "earning": ["surfing", "bonus", "tasks", "read-letter", "affiliate", "test-view"],
         "refback": {
             "type": "auto",
             "percent": 90
@@ -387,6 +387,57 @@
             "method": "instant"
         },
         "payments_via": ["payeer", "webmoney", "yandex", "advcash"],
+        "note": ""
+    },
+
+    {
+        "url": "http://seo-rublick.ru/?r=45126",
+        "status": "paying",
+        "earning": ["surfing", "bonus", "tasks", "read-letter", "affiliate", "test-view"],
+        "refback": {
+            "type": "auto",
+            "percent": 90
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "webmoney", "yandex", "advcash"],
+        "note": ""
+    },
+
+    {
+        "url": "https://wmr-club.ru/?r=16608",
+        "status": "paying",
+        "earning": ["surfing", "bonus", "tasks", "read-letter", "affiliate", "test-view"],
+        "refback": {
+            "type": "auto",
+            "percent": 90
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 1,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "webmoney", "yandex", "advcash"],
+        "note": ""
+    },
+
+    {
+        "url": "https://vipzonabux.ru/?r=22027",
+        "status": "paying",
+        "earning": ["surfing", "bonus", "tasks", "read-letter", "affiliate", "test-view"],
+        "refback": {
+            "type": "auto",
+            "percent": 90
+        },
+        "withdraw": {
+            "currency": "rub",
+            "minium": 2,
+            "method": "instant"
+        },
+        "payments_via": ["payeer", "webmoney", "perfectmoney", "yandex", "advcash", "visa", "mastercard"],
         "note": ""
     }
 ]
